@@ -1,4 +1,4 @@
-# technical-architect-interview-handbook
+# technical-architect-interview-preparation-guide
 A comprehensive guide on how to crack a technical architect interview.
 
 # Required Experience and skill set:
@@ -11,24 +11,24 @@ A comprehensive guide on how to crack a technical architect interview.
 - Good understanding of strong engineering practices (TDD, BDD, DevSecOps) - functional & non-functional.
 - Experience working around Non-functional aspects - CDN,  observabilty (APM, RUM etc.).
 - Understanding of different persistance / caching layer ranging from SQL (Oracle, MS SQL, PostGres), NoSQL (mongoDB, Cosmos, couchbase, DynamoDB), Caching (Redis, ignite, hazelcast etc).
- ## Delivery Expertise :
+ ## Delivery Expertise
  - Specialist in clean code and implementation of design patterns for common problems.
  - Proficient with Test Driven Development, Behaviour Driven Development.
  - Experience working in Agile and DevOps model -  experience in 12 factor principles and DevSecOps engineering practices.
  - Experience in Performance Engineering (load testing, derivations, tuning, core web vitals, page speed etc.) , observability & reliability
  - Experience in any LowCode/NoCode platforms or automation tools.
- ## Learning Expertise:
+ ## Learning Expertise
  - Propensity to approach learning an unfamiliar subject
  - Continuous learning and improvement of self
  - Support in build Learning plan for the team
  - Any new digital skills acquired in the last 4 quarters?
 ## Experience in Architecture and Solution Design
-### Architectural:
+### Architectural
 - Experience in defining architecture in one or more large transformation engagements.
 - In-depth knowledge in Information Security and Non-functional aspects of solution (Availability, Performance, Scalability, Reliability etc.).
 - Understanding of all part of the ecosystem like API Managmenet, CDN, WAF, perimeter security, build, availability, performance engineering, observability, resilience ,
 - Domain driven design, chaos engineering etc.
-### Solution Design:
+### Solution Design
 - Experience in overcoming 1 or 2 very specific business or technology challenges 
   How did the candiade approach the problem ?
   How did the candiade solve it ?
@@ -41,7 +41,7 @@ A comprehensive guide on how to crack a technical architect interview.
  - Solve problems collaboratively, communicating decisions to customers
  - Help lead initiatives to take Software Engineering to the next level by challenging the status quo consulting
  - Participates and presents in the client presentations and interactions for technical architecture.
-## Leadership:
+## Leadership
 - Consulting opportunities created based on emerging technology trends
 - Proposing a new business model - how to approach and build business case
 - No. of white paper/research paper authored, reviewed and published
