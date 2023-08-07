@@ -69,13 +69,38 @@ A comprehensive guide on how to crack a technical architect interview.
   - Facade
   - Flyweight
   - half-sync-half-async
-  - interpreter
   - saga
   - sharding
   - singleton
   - visitor
     
   Reference : https://github.com/iluwatar/java-design-patterns
+
+ # Design Principles
+  - KISS
+  - YAGNI
+  - Separation of Concerns
+  - DRY
+  - Code For The Maintainer
+  - Avoid Premature Optimization
+  - Minimise Coupling
+  - Law of Demeter
+  - Composition Over Inheritance
+  - Orthogonality
+  - Robustness Principle  be conservative in what you send, be liberal in what you accept
+  - Inversion of Control Hollywood Principle, "Don't call us, we'll call you"
+  - Maximise Cohesion
+  - Liskov Substitution Principle
+  - Open/Closed Principle
+  - Single Responsibility Principle
+  - Hide Implementation Details
+  - Curly's Law Curly's Law is about choosing a single, clearly defined goal for any particular bit of code: Do One Thing.
+  - Interface Segregation Principle
+  - Boy-Scout Rule "Leave the campground cleaner than you found it"
+  - Command Query Separation The Command Query Separation principle states that each method should be either a command that performs an action or a query that returns data to the caller but not both. Asking a question should not modify the answer.
+  - Murphy's Law   : Whatever can go wrong will go wrong. So a solution is better the fewer possibilities there are for something to go wrong.
+	
+ https://principles.dev/p/murphys-law/
 # Backend
 ## Java
 ### Spring Boot
