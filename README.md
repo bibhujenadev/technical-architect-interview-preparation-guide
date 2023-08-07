@@ -53,6 +53,29 @@ A comprehensive guide on how to crack a technical architect interview.
 - Participation in technology events like seminars/conferences as speaker/panelist
 
 # DSA
+# Design Patterns
+  - Adapter
+  - Ambassador
+  - Bridge
+  - Builder
+  - Caching
+  - Callback
+  - Chain-of-responsibility
+  - Circuit-breaker
+  - Command
+  - Currying
+  - Decorator
+  - Delegation
+  - Facade
+  - Flyweight
+  - half-sync-half-async
+  - interpreter
+  - saga
+  - sharding
+  - singleton
+  - visitor
+    
+  Reference : https://github.com/iluwatar/java-design-patterns
 # Backend
 ## Java
 ### Spring Boot
